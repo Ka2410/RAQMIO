@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://ka2410.github.io/RAQMIO/sitemap.xml
